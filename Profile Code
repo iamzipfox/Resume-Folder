@@ -1,0 +1,110 @@
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Open+Sans:300,400,500,700|Waiting+for+the+Sunrise|Shadows+Into+Light' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="Resume1CSS.css">
+<script src="Resume1JS.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic' rel='stylesheet' type='text/css'>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- MAIN CONTAINER -->
+		<div id="main_container">
+      <!-- HEADER -->
+      <div id="header">
+        <!-- LOGOTYPE/NAME -->
+        <div class="header_logotype_container">
+          <img src="zippyfox.png" alt="Logo" style="height: 50px; margin-right: 10px;">
+          <h1 class="logotype_name">Oliver <span class="purple">Mills-Mateer</span></h1>
+        </div>
+        
+        
+        <!-- MAIN MENU -->
+        <div class="header_menu_container">
+          <ul class="header_menu horizontal_list">
+            <li><a class="no_border purple" href="Resume1.html">Profile</a></li>
+            <li><a href="education.html">Education</a></li>
+            <li><a href="careers.html">Careers</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="awards.html">Awards</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="header_menu_container">
+      <ul class="header_menu horizontal_list">
+        <li><a href="Resume1.html">Profile</a></li>
+        <li><a href="education.html">Education</a></li>
+        <li><a href="work.html">Careers</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT LAYOUT -->
+  <div id="content_layout">
+    <!-- Left Column -->
+    <div id="left_column">
+      <!-- Profile Image -->
+      <div class="profile_image">
+        <img src="https://s.abcnews.com/images/Lifestyle/ht_pudding_the_fox_03_mt_140821_16x9_992.jpg" alt="Profile Picture" />
+      </div>
+
+      <!-- Contact Details -->
+      <div class="contact_details">
+        <h2><b>Contact Details</b></h2>
+        <p><strong>Phone:</strong> 0476 185 712</p>
+        <p><strong>Email:</strong> olivermillsmateer@icloud.com</p>
+        <p><strong>Address:</strong> 27 Taylor Ave, Wentworth Falls, NSW, Australia, 2782</p>
+        <a href="mailto:olivermillsmateer@icloud.com?subject=Hello!&body=Hi Oliver," class="send_message_button">Send Me a Message</a>
+      </div>
+    </div>
+
+    <!-- Right Column -->
+    <div id="right_column">
+      <!-- Personal Overview -->
+      <div class="content_block">
+        <h2>Personal Overview</h2>
+        <p>I am a HSC graduate student with a diligent work ethic who is seeking degrees in Urban Planning and Cybersecurity. I am also very self motivated person who is capable of 
+          working in large teams and making a significant contribution as well as working solo. I am a quick learner and will bring a positive energy to the work environment and promise to be a dedicated hard worker.).</p>
+      </div>
+
+      <!-- Most Recent Work -->
+      <div class="content_block">
+        <h2>Most Recent Work</h2>
+        <p><strong>Position:</strong> Social Media Manager at Geekdom</p>
+        <p><strong>Responsibilities:</strong> Assisted in creating engaging posts, managing website fullstack</p>
+        <p><strong>Achievements:</strong> Recognized in maintaining excellent quality posts and easy to use website controls</p>
+      </div>
+
+      <!-- Skills -->
+      <div class="content_block">
+        <h2>Skills</h2>
+        <ul>
+          <li>Customer Service</li>
+          <li>Web Development; HTML, CSS, Java as well as programs such as Shopify, Square, etc</li>
+          <li>Experience in managing Social Media accounts; Instagram, TikTok, Facebook</li>
+          <li>3D Modelling and Animation in Blender and Maya</li>
+          <li>Team Building</li>
+          <li>Critical Thinking</li>
+          <li>Team Leadership</li>
+          <li>Computer Literate as well as literate</li>
+          <li>Microsoft Office Suite</li>
+          <li>Gardening, greenhouse maintainence</li>
+        </ul>
+      </div>
+            <!-- Languages -->
+            <div class="content_block">
+              <h2>Languages</h2>
+              <ul>
+                <li>English (Born Speaker)</li>
+                <li>Polish (Basic)</li>
+                <li>French (Basic)</li>
+              </ul>
+            </div>
+    </div>
+  </div>
+      <div class="clear"></div>
+      <!-- FOOTER -->
+      <div id="footer">
+        <p class="footer_name">Website made by Oliver Mills-Mateer</p>
+      </div>
+		</div>
+
